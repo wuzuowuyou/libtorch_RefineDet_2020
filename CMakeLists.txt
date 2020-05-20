@@ -13,7 +13,7 @@ find_package(OpenCV REQUIRED)
 #include_directories("/data_1/Anaconda1105/include")
 #link_directories("/data_1/Anaconda1105/lib")
 
-LINK_DIRECTORIES("/data_1/Anaconda1105/lib/")
+#LINK_DIRECTORIES("/data_1/Anaconda1105/lib/")
 
 add_executable(example-app example-app.cpp refine_det.cpp)
 target_link_libraries(example-app "${TORCH_LIBRARIES}")
