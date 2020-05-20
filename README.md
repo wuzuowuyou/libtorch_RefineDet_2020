@@ -8,10 +8,10 @@ libtorch_RefineDet
 
 
 ## Introduction 训练pytorch Refinedet 环境安装步骤
-conda create -n libtorch1.0 python=3.5
-source activate libtorch1.0
-conda install pytorch torchvision cudatoolkit=8.0 -c pytorch
-pip install opencv-python
+* conda create -n libtorch1.0 python=3.5
+* source activate libtorch1.0
+* conda install pytorch torchvision cudatoolkit=8.0 -c pytorch
+* pip install opencv-python
 
 
 ## ToDo List
