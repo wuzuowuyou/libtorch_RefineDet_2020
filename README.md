@@ -24,7 +24,7 @@ libtorch_RefineDet
 ## libtorch 常用api Link
 [https://blog.csdn.net/yang332233/article/details/106199180]
 
-##pytorch1.3 libtorch1.3 cuda10.0  Download link
+## pytorch1.3 libtorch1.3 cuda10.0  Download link
 Compared with libtorch 1.0, libtorch 1.3 has some syntax changes
 [https://download.csdn.net/download/yang332233/12461623]
 
