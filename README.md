@@ -1,6 +1,9 @@
 # libtorch_RefineDet_2020
 libtorch_RefineDet
 
+## from pytorch RefineDet
+[https://github.com/luuuyi/RefineDet.PyTorch]
+
 ## Requirements
 * Python 3.5
 * pytorch                   1.0.1           py3.5_cuda8.0.61_cudnn7.1.2_2    pytorch
