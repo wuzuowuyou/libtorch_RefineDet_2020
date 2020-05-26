@@ -19,8 +19,12 @@ libtorch_RefineDet
 
 ## ToDo List
 
-- [x] trace pt 
+- [x] trace pt  Reference link[https://www.cnblogs.com/yanghailin/p/12965695.html]
 
 ## libtorch 常用api Link
 [https://blog.csdn.net/yang332233/article/details/106199180]
+
+##pytorch1.3 libtorch1.3 cuda10.0  Download link
+Compared with libtorch 1.0, libtorch 1.3 has some syntax changes
+[https://download.csdn.net/download/yang332233/12461623]
 
