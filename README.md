@@ -19,7 +19,7 @@ libtorch_RefineDet
 
 ## ToDo List
 
-- [x] trace pt           ###Reference link[https://www.cnblogs.com/yanghailin/p/12965695.html]
+- [x] trace pt           ### Reference link[https://www.cnblogs.com/yanghailin/p/12965695.html]
 
 ## libtorch 常用api Link
 [https://blog.csdn.net/yang332233/article/details/106199180]
